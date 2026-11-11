@@ -1,3 +1,5 @@
 streamlit
-json
-graphviz
+numpy
+matplotlib
+torch
+scikit-learn
